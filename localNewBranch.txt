@@ -1,2 +1,3 @@
 localNewBranch
 Modify localNewBranch.txt
+在Github上删除localNewBranch分支上后再次在本地该分支上修改
